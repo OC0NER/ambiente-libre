@@ -23,7 +23,7 @@ Sigue estos pasos para configurar el proyecto localmente:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/ambiente-libre.git
+   git clone https://github.com/OC0NER/ambiente-libre
 
 Navega al directorio del proyecto:<pre>cd ambiente-libre </pre>
 Instala las dependencias:<pre>npm install </pre>
